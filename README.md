@@ -1,23 +1,20 @@
-# Getting Started with Create React App
+# Shooping Cart
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Features:
 
-In the project directory, you can run:
+-Add to Cart 
+- Add or Remove items
 
-### `yarn start`
+### `Technologies`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+1. React-Redux js
+2. Bootstrap
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### `Demo`
 
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+https://myshoppingcart-redux.netlify.app/
 
 ### `yarn build`
 
